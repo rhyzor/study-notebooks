@@ -1,0 +1,197 @@
+# ============================================
+# Python / Data Science .gitignore
+# ============================================
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.egg-info/
+*.egg
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+.env
+venv/
+env/
+.envrc
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+*.ipynb~
+*.pyc
+.ipynb_checkpoints/
+
+# Jupyter Lab / Notebook extensions
+.jupyter/
+.jupyterlab/
+
+# Data files (uncomment if you don't want to commit large data)
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.db
+*.sqlite
+*.sqlite3
+*.parquet
+*.feather
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+*.joblib
+
+# Large data folders (adjust as needed)
+data/
+datasets/
+input/
+outputs/
+results/
+logs/
+models/
+checkpoints/
+*.pth
+*.pt
+*.bin
+*.onnx
+
+# Model files (uncomment if you don't want to commit models)
+*.h5
+*.pkl
+*.joblib
+*.pt
+*.pth
+*.onnx
+*.tflite
+*.pb
+
+# Plots and figures (optional)
+figures/
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+*.pdf
+
+# Reports
+reports/
+*.html
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# IDE settings
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+.vscode/
+.idea/
+
+# pytest
+.pytest_cache/
+__pycache__/
+*.pyc
+.tox/
+
+# Mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# Docker
+.dockerignore
+docker-compose.override.yml
+
+# MLflow
+mlruns/
+mlflow.db
+
+# DVC (Data Version Control)
+.dvc/
+.dvcignore
+*.dvc
+
+# TensorFlow / Keras
+*.tflite
+*.pb
+*.ckpt
+*.meta
+*.index
+*.data-*
+
+# PyTorch
+*.pth
+*.pt
+
+# Ray
+ray_results/
+
+# WandB (Weights & Biases)
+wandb/
+wandb/
+
+# Neptune
+.neptune/
+
+# Comet
+.comet/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.log
+
+# Local Jupyter configuration
+jupyter_notebook_config.py
+
+# R (if mixed with R in DS project)
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Compiled files
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.d
+*.7z
+*.gz
+*.rar
+*.tar
+*.zip
