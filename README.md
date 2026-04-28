@@ -1,9 +1,4 @@
-Вот тебе **полный финальный README уровня “вау, это уже почти продукт”**.
-Просто копируешь в `README.md` и при желании меняешь названия ноутбуков / гифки 👇
 
----
-
-````md
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Study%20Notebooks&fontSize=40&fontAlignY=35&animation=fadeIn" />
 </p>
