@@ -128,4 +128,6 @@ Thumbs.db
 jupyter_notebook_config.py
 
 catboost_info
+
 data/*
+!data/.gitkeep
