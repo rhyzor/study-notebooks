@@ -62,7 +62,9 @@ study-notebooks/
 ├── data/             # датасеты, файлы
 ├── 123/              # в будущем добавлю что то
 ├── Other-files/      # не ipynb-файлы, но другие практики и работы
-└── requirements.txt
+├── requirements.txt
+├── .gitignore
+└── README.md
 ```
 
 ---
