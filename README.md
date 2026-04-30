@@ -59,9 +59,9 @@ jupyter notebook
 ```
 study-notebooks/
 ├── notebooks/        # ipynb-файлы
-├── data/             # датасеты
-├── src/              # вспомогательные скрипты
-├── assets/           # картинки и гифки
+├── data/             # датасеты, файлы
+├── 123/              # в будущем добавлю что то
+├── Other-files/      # не ipynb-файлы, но другие практики и работы
 └── requirements.txt
 ```
 
